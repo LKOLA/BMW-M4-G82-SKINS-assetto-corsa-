@@ -1,0 +1,16 @@
+{
+  "name": "Dravit Grey",
+  "description": "Sophisticated OEM BMW Dravit Grey with medium grey leather interior and silver metallic wheels.",
+  "author": "BMW M4 G82 OEM Pack",
+  "version": "1.0",
+  "colors": [
+    "#606A73",
+    "#8B8B8B",
+    "#C0C0C0"
+  ],
+  "preview": "preview.png",
+  "ui_skin_group": "OEM Colors",
+  "priority": 5,
+  "tags": ["oem", "bmw", "m4", "g82", "grey", "dravit"],
+  "country": "DE"
+}

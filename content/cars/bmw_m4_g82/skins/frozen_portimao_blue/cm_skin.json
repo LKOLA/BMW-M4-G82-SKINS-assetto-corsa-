@@ -1,0 +1,16 @@
+{
+  "name": "Frozen Portimao Blue",
+  "description": "Sophisticated OEM BMW Frozen Portimao Blue with medium grey leather interior and silver metallic wheels.",
+  "author": "BMW M4 G82 OEM Pack",
+  "version": "1.0",
+  "colors": [
+    "#263D89",
+    "#8B8B8B",
+    "#C0C0C0"
+  ],
+  "preview": "preview.png",
+  "ui_skin_group": "OEM Colors",
+  "priority": 3,
+  "tags": ["oem", "bmw", "m4", "g82", "blue", "frozen", "portimao"],
+  "country": "DE"
+}

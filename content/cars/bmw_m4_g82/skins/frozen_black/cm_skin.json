@@ -1,0 +1,16 @@
+{
+  "name": "Frozen Black",
+  "description": "Premium OEM BMW Frozen Black with medium grey leather interior and silver metallic wheels.",
+  "author": "BMW M4 G82 OEM Pack",
+  "version": "1.0",
+  "colors": [
+    "#3B454F",
+    "#8B8B8B",
+    "#C0C0C0"
+  ],
+  "preview": "preview.png",
+  "ui_skin_group": "OEM Colors",
+  "priority": 4,
+  "tags": ["oem", "bmw", "m4", "g82", "black", "frozen"],
+  "country": "DE"
+}

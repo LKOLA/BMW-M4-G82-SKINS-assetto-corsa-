@@ -1,0 +1,16 @@
+{
+  "name": "Isle of Man Green",
+  "description": "Striking OEM BMW Isle of Man Green with medium grey leather interior and silver metallic wheels.",
+  "author": "BMW M4 G82 OEM Pack",
+  "version": "1.0",
+  "colors": [
+    "#059374",
+    "#8B8B8B",
+    "#C0C0C0"
+  ],
+  "preview": "preview.png",
+  "ui_skin_group": "OEM Colors",
+  "priority": 11,
+  "tags": ["oem", "bmw", "m4", "g82", "green", "isle_of_man"],
+  "country": "DE"
+}
