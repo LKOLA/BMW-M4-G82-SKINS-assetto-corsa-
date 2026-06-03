@@ -29,24 +29,24 @@ This is a complete OEM BMW color skin pack for the Assetto Corsa BMW M4 Competit
 
 ```
 content/cars/bmw_m4_g82/skins/
-├─ black_sapphire/
-│  ├─ cm_skin.json
-│  ├─ skin.ini
-│  └─ preview.png (add preview images)
-├─ alpine_white/
-├─ toronto_red/
-├─ portimao_blue/
-├─ isle_of_man_green/
-├─ sao_paulo_yellow/
-├─ brooklyn_grey/
-├─ skyscraper_grey/
-├─ aventurine_red/
-├─ tanzanite_blue/
-├─ dravit_grey/
-├─ frozen_black/
-├─ frozen_portimao_blue/
-├─ frozen_brilliant_white/
-└─ frozen_pure_grey/
+├── black_sapphire/
+│   ├── cm_skin.json
+│   ├── skin.ini
+│   └── preview.png (add preview images)
+├── alpine_white/
+├── toronto_red/
+├── portimao_blue/
+├── isle_of_man_green/
+├── sao_paulo_yellow/
+├── brooklyn_grey/
+├── skyscraper_grey/
+├── aventurine_red/
+├── tanzanite_blue/
+├── dravit_grey/
+├── frozen_black/
+├── frozen_portimao_blue/
+├── frozen_brilliant_white/
+└── frozen_pure_grey/
 ```
 
 ## Specifications
