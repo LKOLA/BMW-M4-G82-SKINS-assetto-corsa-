@@ -1,94 +1,46 @@
 {
-  "01CarPaint": {
-    "complex": false,
-    "reflection": 1.0,
-    "gloss": 1.0,
-    "specular": 1.0,
+  "calipers": {
+    "enabled": true,
+    "colors": [
+      "#8B0000"
+    ]
+  },
+  "carPaint": {
     "color": "#059374FF",
     "flakes": 0.777,
     "enabled": true
   },
-  "02Rim": {
-    "complex": false,
-    "reflection": 1.0,
-    "gloss": 1.0,
-    "specular": 1.0,
-    "color": "#C0C0C0FF",
-    "flakes": 0.777,
-    "enabled": true
-  },
-  "03BrakeCaliper": {
-    "enabled": true,
-    "colors": [
-      "#7A0000"
-    ]
-  },
-  "05Alcantara1": {
-    "enabled": false,
-    "colors": [
-      "#1C1C1C"
-    ]
-  },
-  "05Alcantara2": {
-    "enabled": false,
-    "colors": [
-      "#1C1C1C"
-    ]
-  },
-  "06Leather1": {
+  "leather": {
     "enabled": true,
     "colors": [
       "#6B6B6B"
     ]
   },
-  "06Leather2": {
+  "leather2": {
     "enabled": true,
     "colors": [
       "#6B6B6B"
     ]
   },
-  "06Leather3": {
+  "leather4": {
     "enabled": true,
     "colors": [
       "#6B6B6B"
     ]
   },
-  "06Leather4": {
-    "enabled": false,
-    "colors": [
-      "#6B6B6B"
-    ]
-  },
-  "06Leather5": {
-    "enabled": false,
-    "colors": [
-      "#1C1C1C"
-    ]
-  },
-  "06Seatbelts1": {
+  "leatherColored": {
     "enabled": true,
     "colors": [
       "#464646"
     ]
   },
-  "07Stitching": {
+  "licensePlate": {
+    "style": "Europe"
+  },
+  "rims": {
     "enabled": true,
     "colors": [
-      "#6B6B6B"
+      "#C0C0C0"
     ]
-  },
-  "08Misc3": {
-    "enabled": false,
-    "colors": [
-      "#6B6B6B"
-    ]
-  },
-  "licensePlate": {
-    "style": "Europe",
-    "paramCountry": "Germany",
-    "paramPrefix": "M",
-    "paramNumber": "4",
-    "paramPostfix": "",
-    "paramNumber2": "82"
   }
 }
