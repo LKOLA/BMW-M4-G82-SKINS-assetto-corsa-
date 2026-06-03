@@ -1,16 +1,94 @@
 {
-  "name": "Sao Paulo Yellow",
-  "description": "Vibrant OEM BMW Sao Paulo Yellow with medium grey leather interior and silver metallic wheels.",
-  "author": "BMW M4 G82 OEM Pack",
-  "version": "1.0",
-  "colors": [
-    "#D4DF05",
-    "#8B8B8B",
-    "#C0C0C0"
-  ],
-  "preview": "preview.png",
-  "ui_skin_group": "OEM Colors",
-  "priority": 10,
-  "tags": ["oem", "bmw", "m4", "g82", "yellow", "sao_paulo"],
-  "country": "DE"
+  "01CarPaint": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#D4DF05FF",
+    "flakes": 0.777,
+    "enabled": true
+  },
+  "02Rim": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#C0C0C0FF",
+    "flakes": 0.777,
+    "enabled": true
+  },
+  "03BrakeCaliper": {
+    "enabled": true,
+    "colors": [
+      "#7A0000"
+    ]
+  },
+  "05Alcantara1": {
+    "enabled": false,
+    "colors": [
+      "#1C1C1C"
+    ]
+  },
+  "05Alcantara2": {
+    "enabled": false,
+    "colors": [
+      "#1C1C1C"
+    ]
+  },
+  "06Leather1": {
+    "enabled": true,
+    "colors": [
+      "#6B6B6B"
+    ]
+  },
+  "06Leather2": {
+    "enabled": true,
+    "colors": [
+      "#6B6B6B"
+    ]
+  },
+  "06Leather3": {
+    "enabled": true,
+    "colors": [
+      "#6B6B6B"
+    ]
+  },
+  "06Leather4": {
+    "enabled": false,
+    "colors": [
+      "#6B6B6B"
+    ]
+  },
+  "06Leather5": {
+    "enabled": false,
+    "colors": [
+      "#1C1C1C"
+    ]
+  },
+  "06Seatbelts1": {
+    "enabled": true,
+    "colors": [
+      "#464646"
+    ]
+  },
+  "07Stitching": {
+    "enabled": true,
+    "colors": [
+      "#6B6B6B"
+    ]
+  },
+  "08Misc3": {
+    "enabled": false,
+    "colors": [
+      "#6B6B6B"
+    ]
+  },
+  "licensePlate": {
+    "style": "Europe",
+    "paramCountry": "Germany",
+    "paramPrefix": "M",
+    "paramNumber": "4",
+    "paramPostfix": "",
+    "paramNumber2": "82"
+  }
 }
